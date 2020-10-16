@@ -1,4 +1,5 @@
 ![Try Django 1.10 Logo](https://cfe-static.s3.amazonaws.com/media/try-django-110/images/try_django_110.png)
+Django is a Powerfull Web Development Framework for Python Developers
 
 # Try Django 1.10
 
